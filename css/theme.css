@@ -34,6 +34,9 @@ section.has-light-background, section.has-light-background h1, section.has-light
 .dim .backgrounds, .dim .print-pdf .reveal .present[data-state='dim'] .slide-background {
   opacity: 0.2 !important; }
 
+.dimish .backgrounds, .dimish .print-pdf .reveal .present[data-state='dimish'] .slide-background {
+  opacity: 0.4 !important; }
+
 img.circle {
   border-radius: 50%;
   width: 200px; }

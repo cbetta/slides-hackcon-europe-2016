@@ -1,12 +1,13 @@
 <!-- .slide: data-state="dim" data-background="resources/hackathon.jpg" -->
 
-![Cristiano Betta](resources/cbetta.jpg) <!-- .element: class="circle" -->
+# About me
 
-##  Cristiano Betta
+Developer <!-- .element: class="fragment" -->
 
-Hacker @ [Work Betta](https://betta.io)
+ex-PayPal/Braintree <!-- .element: class="fragment" -->
 
-[@cbetta](https://twitter.com/cbetta)
+DevRel Consultant <!-- .element: class="fragment" -->
 
-note:
-    Hire me!
+Maintainer Hack Day Manifesto <!-- .element: class="fragment" -->
+
+Maintainer Hack Code of Conduct <!-- .element: class="fragment" -->

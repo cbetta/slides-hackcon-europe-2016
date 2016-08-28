@@ -1,86 +1,60 @@
 [
     "index.md",
     [
-        "about-me-2.md",
-        "about-me-3.md",
-        "about-me-4.md",
-        "joke.md"
+        "about-me.md"
     ],
     [
-        "disqus-1.md",
-        "disqus-2.md",
-        "braintree-1.md",
-        "braintree-2.md",
-        "punch.md",
-        "punch-2.md"
+      "life-is.md",
+      "hackathons.md",
+      "studying.md",
+      "learning.md",
+      "hacked.md",
+      "learn-build-share.md",
+      "how-we-learn.md",
+      "worlds.md",
+      "worlds-2.md",
+      "wow.md"
     ],
     [
-        "joke-2.md",
-        "elephant-2.md",
-        "chart-2.md",
-        "doom.md",
-        "stats.md"
+      "learn.md",
+      "hackathons-2.md",
+      "conferences.md",
+      "workshops.md"
     ],
     [
-        "the-problems.md",
-        "crazy.md",
-        "the-problems-2.md",
-        "cat.md"
+      "build.md",
+      "ideathons.md",
+      "childathons.md",
+      "codeschools.md",
+      "codeclub.md",
+      "charity.md",
+      "charityshock.md"
     ],
     [
-        "bundling.md",
-        "browserify.md",
-        "webpack.md",
-        "rollup.md"
+      "share.md",
+      "unconferences.md",
+      "barcamps.md",
+      "grid.md",
+      "uxcamps.md",
+      "bankcamps.md",
+      "werewolf.md",
+      "wow.md",
+      "meetups.md",
+      "lightning-talks.md",
+      "thundercloud.md"
     ],
     [
-        "rollup-2.md",
-        "es6-continued-2.md",
-        "es6-continued.md",
-        "rollup-3.md",
-        "rollup-4.md",
-        "rollup-5.md",
-        "punch-2.md",
-        "liftoff.md"
+      "hybrid.md",
+      "hackference.md",
+      "over-the-air.md",
+      "designjam.md"
     ],
     [
-      "ui-management.md",
-      "crazy2.md",
-      "angular.md",
-      "react.md",
-      "riot.md"
-    ],
-    [
-        "riot-1.md",
-        "riot-2.md",
-        "riot-3.md",
-        "riot-4.md",
-        "riot-5.md",
-        "tunnel.md"
-    ],
-    [
-        "state-management.md",
-        "crazy3.md",
-        "cat2.md",
-        "redux.md",
-        "redux-3.md",
-        "redux-4.md",
-        "redux-5.md"
-    ],
-    [
-      "demo.md",
-      "demo-2.md"
-    ],
-    [
-      "comparison.md",
-      "comparison-2.md",
-      "comparison-3.md",
-      "happy.md"
-    ],
-    "conclusions.md",
-    [
-      "notes.md",
-      "scientist.md"
+      "takeaway.md",
+      "learntobuild.md",
+      "buildtoshare.md",
+      "sharetolearn.md",
+      "lbs.md"
     ],
     "questions.md"
 ]

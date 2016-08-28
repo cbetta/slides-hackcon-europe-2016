@@ -1,8 +1,6 @@
-<!-- .slide: data-state="dim" data-background="resources/feathers.jpg" -->
+<!-- .slide: data-state="dim" data-background="resources/hackathon.jpg" -->
 
-# Lightweight JS
-
-with Rollup, Riot and Redux
+# Let's forget about hackathons
 
 Cristiano Betta
 

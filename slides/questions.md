@@ -1,15 +1,12 @@
 <!-- .slide: data-state="dim" data-background="resources/hackathon.jpg" -->
 
-## Questions?
+![Cristiano Betta](resources/cbetta.jpg) <!-- .element: class="circle" -->
 
-####  Interesting people with interesting stories
+##  GO DO IT!
 
-Jessica Rose | [@jesslynnrose](https://twitter.com/jesslynnrose)
+Cristiano Betta | [@cbetta](https://twitter.com/cbetta) | [betta.io](https://betta.io)
 
-Melinda Seckington | [@mseckington](https://twitter.com/mseckington)
+[go.betta.io/nohackathons](http://go.betta.io/nohackathon)
 
-Julia Mitchelmore | [@mitchelmore_j](https://twitter.com/mitchelmore_j)
-
-Meri Williams | [@geekmanager](https://twitter.com/geekmanager)
-
-Jack Franklin | [@jack_franklin](https://twitter.com/jack_franklin)
+note:
+    Hire me!
