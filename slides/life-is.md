@@ -1,0 +1,3 @@
+<!-- .slide: data-state="dim" data-background="resources/elephant.png" -->
+
+# Life is...

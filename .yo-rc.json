@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Let's forget about hackathons",
+    "packageVersion": "1.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "cbetta",
+    "githubRepository": "slides-fullstack-london-2016"
+  }
+}
