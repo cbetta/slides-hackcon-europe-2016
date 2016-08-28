@@ -1,5 +1,5 @@
 {
-  "name": "lightweight-browser-libraries-with-rollup-riot-and-redux",
+  "name": "slides-hackcon-europe-2016",
   "version": "1.0.0",
   "private": true,
   "devDependencies": {
@@ -20,8 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:cbetta/slides-fullstack-london-2016.git"
-
+    "url": "git@github.com:cbetta/slides-hackcon-europe-2016.git"
   },
   "scripts": {
     "test": "grunt test",
