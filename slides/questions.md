@@ -6,7 +6,7 @@
 
 Cristiano Betta | [@cbetta](https://twitter.com/cbetta) | [betta.io](https://betta.io)
 
-[go.betta.io/nohackathons](http://go.betta.io/nohackathon)
+[go.betta.io/nohackathon](http://go.betta.io/nohackathon)
 
 note:
     Hire me!
