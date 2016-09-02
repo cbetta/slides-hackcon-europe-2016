@@ -2,11 +2,11 @@
 
 # About me
 
-Developer <!-- .element: class="fragment" -->
-
-ex-PayPal/Braintree <!-- .element: class="fragment" -->
+Occasional Event Organiser <!-- .element: class="fragment" -->
 
 DevRel Consultant <!-- .element: class="fragment" -->
+
+ex-PayPal/Braintree <!-- .element: class="fragment" -->
 
 Maintainer Hack Day Manifesto <!-- .element: class="fragment" -->
 

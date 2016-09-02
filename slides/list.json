@@ -1,11 +1,9 @@
 [
     "index.md",
     [
-        "about-me.md"
-    ],
-    [
       "life-is.md",
       "hackathons.md",
+      "redbull.md",
       "studying.md",
       "learning.md",
       "hacked.md",
@@ -13,7 +11,14 @@
       "how-we-learn.md",
       "worlds.md",
       "worlds-2.md",
-      "wow.md"
+      "geek.md"
+    ],
+    [
+        "about-me.md",
+        "learn-build-share.md",
+        "learn.md",
+        "build.md",
+        "share.md"
     ],
     [
       "learn.md",
